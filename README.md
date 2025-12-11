@@ -1,4 +1,4 @@
-# ArticleViz: Transform Your Writing with the Ultimate AI Article Image Generator
+# ArticleViz.com: Transform Your Writing with the Ultimate AI Article Image Generator
 
 Are you tired of spending hours searching for the "right" stock photo, only to settle for something generic? Do you struggle to write complex AI prompts that capture the essence of your writing?
 
@@ -55,3 +55,4 @@ Using unique **AI-generated images** instead of stock photos acts as a powerful 
 Stop using boring stock photos. Start creating art that tells your story.
 
 [**Try the Best AI Article Image Generator for Free**](https://articleviz.com)
+Build by articleviz.com
